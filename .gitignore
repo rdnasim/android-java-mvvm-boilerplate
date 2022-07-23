@@ -1,6 +1,15 @@
 # Built application files
 /*/build/
 
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+/captures
+.externalNativeBuild
+/.idea
+
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
 
