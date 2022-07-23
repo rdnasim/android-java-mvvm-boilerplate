@@ -3,7 +3,7 @@ package com.riadul.mvvm.data.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class TestResponse {
+public class ExampleResponse {
 
     @SerializedName("TestOne")
     @Expose
@@ -17,10 +17,10 @@ public class TestResponse {
     @Expose
     private String testThree;
 
-    public TestResponse() {
+    public ExampleResponse() {
     }
 
-    public TestResponse(String testOne, String testTwo, String testThree) {
+    public ExampleResponse(String testOne, String testTwo, String testThree) {
         this.testOne = testOne;
         this.testTwo = testTwo;
         this.testThree = testThree;
