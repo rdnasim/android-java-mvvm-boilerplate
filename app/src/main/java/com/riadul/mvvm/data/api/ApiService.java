@@ -1,6 +1,6 @@
 package com.riadul.mvvm.data.api;
 
-public interface UserApiService {
+public interface ApiService {
     // call api to response on request on specific parameter
     // Example
 
