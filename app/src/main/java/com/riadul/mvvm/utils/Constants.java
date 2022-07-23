@@ -1,4 +1,4 @@
-package com.riadul.mvvm.util;
+package com.riadul.mvvm.utils;
 
 import com.riadul.mvvm.data.api.ApiClient;
 import com.riadul.mvvm.data.api.ApiService;

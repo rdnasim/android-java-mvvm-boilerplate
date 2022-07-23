@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.riadul.mvvm.data.api.ApiService;
-import com.riadul.mvvm.util.Constants;
+import com.riadul.mvvm.utils.Constants;
 
 import io.paperdb.Paper;
 
