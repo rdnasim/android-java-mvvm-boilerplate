@@ -1,4 +1,4 @@
-package com.riadul.mvvm.ui.base;
+package com.riadul.mvvm.base;
 
 import android.content.Context;
 
